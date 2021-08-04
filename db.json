@@ -24,6 +24,11 @@
 			"id": 5,
 			"title": "Post 5",
 			"date": ""
+		},		
+		{
+			"id": 6,
+			"title": "Post 6",
+			"date": ""
 		}
 	],
 	"comments": [
