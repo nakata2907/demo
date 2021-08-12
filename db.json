@@ -1,69 +1,16 @@
-{
-	"posts": [
-		{
-			"id": 1,
-			"title": "Post 1",
-			"date":"08/02/2021 08:10:00"
-		},
-		{
-			"id": 2,
-			"title": "Post 2",
-			"date":"08/02/2021 08:10:00"
-		},
-		{
-			"id": 3,
-			"title": "Post 3",
-			"date":"08/02/2021 08:10:00"
-		},		
-		{
-			"id": 4,
-			"title": "Post 4",
-			"date":"08/02/2021 08:10:00"
-		},		
-		{
-			"id": 5,
-			"title": "Post 5",
-			"date": ""
-		},		
-		{
-			"id": -6,
-			"title": "Post 6",
-			"date": ""
-		},		
-		{
-			"id": -7,
-			"title": "Post -7",
-			"date": ""
-		}
-	],
-	"comments": [
-		{
-			"id": "1",
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": "2",
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": "3",
-			"body": " trim both ",
-			"postId": 1
-		},
-		{
-			"id": "4",
-			"body": " trim left",
-			"postId": 1
-		},
-		{
-			"id": "5",
-			"body": "trim right ",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "bXlmaWxlXzgyM18yMDIxMDgwMy50eHQ="
-	}
-}
+<xmap>
+	<doc type="exd" name="Exchange_Doc">
+		<node type="table" name="Table1">
+			<node type="field" name="exProperty1"/>
+			<node type="field" name="exProperty2"/>
+			<node type="field" name="exProperty3"/>
+			<node type="field" name="exProperty4"/>
+			<node type="field" name="exProperty5"/>
+			<node type="field" name="exProperty6"/>
+			<node type="table" name="Table2">
+				<node type="field" name="exProperty7"/>
+				<node type="field" name="exProperty8"/>
+			</node>
+		</node>
+	</doc>
+</xmap>
