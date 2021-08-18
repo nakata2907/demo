@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     {
       "id": 1,
       "title": "Post 1",
@@ -18,5 +19,51 @@
       "id": 4,
       "title": "Post 4",
       "date": "08/02/2021 08:10:00"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "date": ""
+    },
+    {
+      "id": -6,
+      "title": "Post 6",
+      "date": ""
+    },
+    {
+      "id": -7,
+      "title": "Post -7",
+      "date": ""
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "3",
+      "body": " trim both ",
+      "postId": 1
+    },
+    {
+      "id": "4",
+      "body": " trim left",
+      "postId": 1
+    },
+    {
+      "id": "5",
+      "body": "trim right ",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "bXlmaWxlXzgyM18yMDIxMDgwMy50eHQ="
+  }
+}
