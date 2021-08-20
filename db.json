@@ -46,21 +46,6 @@
       "id": "2",
       "body": "some comment",
       "postId": 1
-    },
-    {
-      "id": "3",
-      "body": " trim both ",
-      "postId": 1
-    },
-    {
-      "id": "4",
-      "body": " trim left",
-      "postId": 1
-    },
-    {
-      "id": "5",
-      "body": "trim right ",
-      "postId": 1
     }
   ],
   "profile": {
