@@ -49,6 +49,25 @@
     }
   ],
   "profile": {
-    "name": "bXlmaWxlXzgyM18yMDIxMDgwMy50eHQ="
-  }
+  "LeftProperty1": "value 1",
+  "LeftProperty2": "value 2  ",
+  "LeftProperty3": "value 3   ",
+  "LeftProperty4": "value 4",
+  "LeftProperty5": "value 5",
+  "LeftProperty6": "value 6",
+  "LeftProperty7": [
+    {
+      "ArrayElement7": "1"
+    },
+	{
+      "ArrayElement7": "2"
+    },
+	{
+      "ArrayElement7": "3"
+    },
+	{
+      "ArrayElement7": "4"
+    }
+  ]
+}
 }
