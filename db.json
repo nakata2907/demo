@@ -36,7 +36,7 @@
       "date": ""
     }
   ],
-  "comments": ""<GetFeedSubmissionListResponse xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://mws.amazonaws.com/doc/2009-01-01/\">	<GetFeedSubmissionListResult>		<FeedSubmissionInfo>			<FeedSubmissionId>52986018785</FeedSubmissionId>			<FeedType>_POST_PRODUCT_DATA_</FeedType>			<SubmittedDate>2021-06-07T18:36:38+00:00</SubmittedDate>			<FeedProcessingStatus>_DONE_</FeedProcessingStatus>			<StartedProcessingDate>2021-06-08T01:36:44+07:00</StartedProcessingDate>			<CompletedProcessingDate>2021-06-08T01:37:13+07:00</CompletedProcessingDate>		</FeedSubmissionInfo>	</GetFeedSubmissionListResult>	<ResponseMetadata>		<RequestId>94a6274d-ae18-4723-971b-89483e589130</RequestId>	</ResponseMetadata>	<ResponseHeaderMetadata/></GetFeedSubmissionListResponse>"",
+  "comments":[],
   "profile": {
   "LeftProperty1": "value 1",
   "LeftProperty2": "value 2  ",
