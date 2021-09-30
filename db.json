@@ -39,7 +39,7 @@
   "comments":[],
   "profile": {
   "LeftProperty1": "value 1",
-  "LeftProperty2": "value 2  ",
+  "LeftProperty2": null,
   "LeftProperty3": "value 3   ",
   "LeftProperty4": "08/02/2021 08:10:00",
   "LeftProperty5": "value 5",
